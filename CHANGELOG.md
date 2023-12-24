@@ -1,5 +1,12 @@
 
 
+## [1.0.3](https://github.com/resatyavcin/erp-server/compare/1.0.2...1.0.3) (2023-12-24)
+
+
+### Foo
+
+* Change package.json ([e41bdad](https://github.com/resatyavcin/erp-server/commit/e41bdad4f9735a05471249bf3b3d33cb3469db1d))
+
 ## [1.0.2](https://github.com/resatyavcin/erp-server/compare/1.0.1...1.0.2) (2023-12-24)
 
 ## 1.0.1 (2023-12-23)
