@@ -48,6 +48,10 @@
             {
               "type": "fix",
               "section": "Bug Fixes"
+            },
+            {
+              "type": "foo",
+              "section": "Foo"
             }
           ]
         }
