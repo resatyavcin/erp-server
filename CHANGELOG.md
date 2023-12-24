@@ -1,5 +1,12 @@
 
 
+## [1.0.4](https://github.com/resatyavcin/erp-server/compare/1.0.3...1.0.4) (2023-12-24)
+
+
+### Bug Fixes
+
+* package.json ([b4c8035](https://github.com/resatyavcin/erp-server/commit/b4c80352d13430dab10afc332052e501801f9ca7))
+
 ## [1.0.3](https://github.com/resatyavcin/erp-server/compare/1.0.2...1.0.3) (2023-12-24)
 
 
