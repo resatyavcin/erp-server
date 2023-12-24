@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start:dev": "nodemon --watch './**/*.ts' --ext ts --exec ts-node server.ts",
+    "release:info": "release-it --release-version",
     "release": "release-it"
   },
   "keywords": [],
@@ -43,7 +44,8 @@
       "@release-it/conventional-changelog": {
         "infile": "CHANGELOG.md",
         "preset": {
-          "name": "conventionalcommits",
+          "name": "angular",
+          "header": "# Changelog",
           "types": [
             {
               "type": "feat",
