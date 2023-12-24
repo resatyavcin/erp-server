@@ -1,5 +1,12 @@
 
 
+## [1.0.5](https://github.com/resatyavcin/erp-server/compare/1.0.4...1.0.5) (2023-12-24)
+
+
+### Bug Fixes
+
+* Server.ts ([d3aa202](https://github.com/resatyavcin/erp-server/commit/d3aa202a18f19626519b3c8912eae23ebf4d8584))
+
 ## [1.0.4](https://github.com/resatyavcin/erp-server/compare/1.0.3...1.0.4) (2023-12-24)
 
 
