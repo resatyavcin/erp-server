@@ -1,5 +1,7 @@
 
 
+## [1.0.2](https://github.com/resatyavcin/erp-server/compare/1.0.1...1.0.2) (2023-12-24)
+
 ## 1.0.1 (2023-12-23)
 
 
